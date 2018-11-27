@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebResource>
+  <WebResourceId>{2117eac0-fcf1-e811-a956-000d3a59746e}</WebResourceId>
+  <Name>ths_/entities/incident/customer_filter_in_business_process_flow.js</Name>
+  <DisplayName>ths_/entities/incident/customer_filter_in_business_process_flow.js</DisplayName>
+  <WebResourceType>3</WebResourceType>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <IsEnabledForMobileClient>0</IsEnabledForMobileClient>
+  <IsAvailableForMobileOffline>0</IsAvailableForMobileOffline>
+  <IsCustomizable>1</IsCustomizable>
+  <CanBeDeleted>1</CanBeDeleted>
+  <IsHidden>0</IsHidden>
+  <FileName>/WebResources/ths_entitiesincidentcustomer_filter_in_business_pr2117EAC0-FCF1-E811-A956-000D3A59746E</FileName>
+</WebResource>

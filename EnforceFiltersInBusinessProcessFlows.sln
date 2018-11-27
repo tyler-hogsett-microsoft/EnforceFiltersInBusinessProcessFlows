@@ -25,13 +25,18 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebResources", "WebResource
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolutionPackage", "SolutionPackage\SolutionPackage.csproj", "{AF027527-935C-4D5D-8BF4-16B45DF8D8F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{438521DB-CE2C-4D9E-8B79-3F709CD3BBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{438521DB-CE2C-4D9E-8B79-3F709CD3BBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438521DB-CE2C-4D9E-8B79-3F709CD3BBF9}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF027527-935C-4D5D-8BF4-16B45DF8D8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF027527-935C-4D5D-8BF4-16B45DF8D8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
